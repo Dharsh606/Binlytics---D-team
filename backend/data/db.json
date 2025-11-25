@@ -1,0 +1,28 @@
+{
+  "wasteReadings": [
+    {
+      "id": "OKDnOKYu7k4eWBWIU1n5L",
+      "binId": "BIN-A!",
+      "weightKg": 4.11,
+      "moistureRaw": 8,
+      "wasteTag": "glass",
+      "timestamp": "2025-11-25T14:35:07.407Z"
+    },
+    {
+      "id": "cWw-eli2qASYfKBDq1zzq",
+      "binId": "BIN-404",
+      "weightKg": 3.9,
+      "moistureRaw": 487,
+      "wasteTag": "metal",
+      "timestamp": "2025-11-25T14:54:36.109Z"
+    },
+    {
+      "id": "JZtqDBtaMy8fWvdzCup2N",
+      "binId": "BIN-316",
+      "weightKg": 3.48,
+      "moistureRaw": 989,
+      "wasteTag": "glass",
+      "timestamp": "2025-11-25T14:59:20.708Z"
+    }
+  ]
+}
