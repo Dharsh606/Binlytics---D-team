@@ -395,5 +395,5 @@ If you encounter any issues, check the Troubleshooting section or review the cod
 
 ---
 
-**Built with ❤️ for Hackathon**
+**Built with Passion for Hackathon By D - Team**
 
